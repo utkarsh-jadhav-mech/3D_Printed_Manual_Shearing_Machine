@@ -18,15 +18,18 @@ This project was developed during my internship under the domain of 3D Printing 
 6. [Project Objectives](#project-objectives)  
 7. [Engineering Calculations](#engineering-calculations)
 8. [Materials Used](#materials-used)  
-9. [Software Used](#software-used)  
-10. [Project Development Process](#project-development-process) 
-11. [Results](#results)  
-12. [Applications](#applications)  
-13. [Skills Developed](#skills-developed)  
-14. [Contributing](#contributing)  
-15. [Future Improvements](#future-improvements)  
-16. [Author](#author)  
-17. [Final Note](#final-note)
+9. [Software Used](#software-used)
+10. [CAD Design](#cad-design)
+11. [Components](#components)
+12. [Working Principle](#working-principle)
+13. [Project Development Process](#project-development-process) 
+14. [Results](#results)  
+15. [Applications](#applications)  
+16. [Skills Developed](#skills-developed)  
+17. [Contributing](#contributing)  
+18. [Future Improvements](#future-improvements)  
+19. [Author](#author)  
+20. [Final Note](#final-note)
 
 ## Project Summary
 This project presents the design, simulation, and manufacturing of a 3D Printed Manual Shearing Machine developed using CAD modelling and additive manufacturing techniques. The machine is designed for lightweight sheet and paper cutting applications while demonstrating mechanical design principles, lever mechanism operation, and structural analysis.
@@ -105,6 +108,26 @@ https://github.com/utkarsh-jadhav-mech/3D_Printed_Manual_Shearing_Machine/blob/m
 | SolidWorks | CAD Modeling |
 | SolidWorks Simulation | Structural Analysis |
 | FlashPrint | STL Slicing |
+
+## CAD Design
+
+The complete 3D Printed Manual Shearing Machine was designed using SolidWorks CAD software. Parametric modeling techniques were used to create accurate and editable mechanical components for assembly and manufacturing.
+
+## Components
+
+The project consists of the following major components:
+
+- Main Body
+- Upper Blade
+- Lower Blade
+- Handle Mechanism
+- Support Structure
+- Pivot Joint
+- Fasteners and Connectors
+
+## Working Principle
+
+The machine operates using a manual lever mechanism. When force is applied to the handle, the lever amplifies the input force and transfers it to the cutting blade, enabling the shearing operation for lightweight materials such as paper, cardboard, and thin plastic sheets.
 
 ## Project Development Process
 
