@@ -1,12 +1,32 @@
-# 3D Printed Manual Shearing Machine
+# ✂️ 3D Printed Manual Shearing Machine
 
-### Internship Mini Project | Additive Manufacturing & CAD Design
+### 🏭 Internship Mini Project | Additive Manufacturing & CAD Design
 
 This project was developed during my internship under the domain of 3D Printing and Additive Manufacturing. The project focuses on the design, simulation, and manufacturing of a compact Manual Shearing Machine using CAD modeling and 3D printing technologies.
 
 <br>
 <img width="1920" height="1080" alt="Final Assembly" src="https://github.com/user-attachments/assets/5761d59d-4cc4-4045-83b3-6d77e962d508" />
 <br>
+
+# Table of Contents
+
+1. [Project Summary](#project-summary)
+2. [Project Overview](#project-overview)
+3. [Internship Details](#internship-details)
+4. [Project Focus](#project-focus)
+5. [Internship Certificate](#internship-certificate)  
+6. [Project Objectives](#project-objectives)  
+7. [Engineering Calculations](#engineering-calculations)
+8. [Materials Used](#materials-used)  
+9. [Software Used](#software-used)  
+10. [Project Development Process](#project-development-process) 
+11. [Results](#results)  
+12. [Applications](#applications)  
+13. [Skills Developed](#skills-developed)  
+14. [Contributing](#contributing)  
+15. [Future Improvements](#future-improvements)  
+16. [Author](#author)  
+17. [Final Note](#final-note)
 
 ## Project Summary
 This project presents the design, simulation, and manufacturing of a 3D Printed Manual Shearing Machine developed using CAD modelling and additive manufacturing techniques. The machine is designed for lightweight sheet and paper cutting applications while demonstrating mechanical design principles, lever mechanism operation, and structural analysis.
@@ -45,9 +65,9 @@ Mini Project / Internship Project
 This project was completed as part of an internship in the domain of 3D Printing and Additive Manufacturing at Bharat Forge Centre of Excellence (CoE).
 
 ### Certificate
-```
-[view internship certificate](D:\3D_Printed_Manual_Shearing_Machine(Internship)\Certificates)
-```
+
+https://github.com/utkarsh-jadhav-mech/3D_Printed_Manual_Shearing_Machine/blob/main/Certificates/Internship_Certificate.pdf 
+<br>
 
 ## Project Objectives
 
@@ -60,46 +80,13 @@ This project was completed as part of an internship in the domain of 3D Printing
 
 ## Engineering Calculations
 
-### Mechanical Advantage
-
-\[
-MA = 6
-\]
-
-
-### Applied Load
-
-\[
-F = 88.3\ N
-\]
-
-
-### Cross-Sectional Area
-
-\[
-A = 200\ mm^2
-\]
-
-
-### Stress Calculation
-
-\[
-\sigma = 0.44\ MPa
-\]
-
-
-### Factor of Safety
-
-\[
-FOS = 113
-\]
-
-
-### Strain Calculation
-
-\[
-\epsilon = 1.25 \times 10^{-4}
-\]
+| Parameter | Formula | Result |
+|---|---|---|
+| Mechanical Advantage | MA = L / d | 6 |
+| Applied Load | F = Input Force × MA | 88.3 N |
+| Cross-Sectional Area | A = b × t | 200 mm² |
+| Stress | σ = F / A | 0.44 MPa |
+| Strain | ε = σ / E | 1.25 × 10⁻⁴ |
 
 ## Materials Used
 
